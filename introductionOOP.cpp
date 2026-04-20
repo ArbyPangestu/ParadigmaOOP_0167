@@ -13,5 +13,9 @@ class Mahasiswa{
 
     }
     
+   
 
 };
+int main(){
+   
+}
