@@ -6,4 +6,8 @@ class Mahasiswa{
     string nama;
     float nilai;
 
+    void prindata(){
+
+    }
+    
 };
